@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag2 on Michael Healy</title>
-    <link>https://michaelhealy.space/academic/tags/tag2/</link>
+    <link>http://michaelhealy.space/academic/tags/tag2/</link>
     <description>Recent content in Tag2 on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>ePortflio</title>
-      <link>https://michaelhealy.space/academic/project/eportfolios/</link>
+      <link>http://michaelhealy.space/academic/project/eportfolios/</link>
       <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://michaelhealy.space/academic/project/eportfolios/</guid>
+      <guid>http://michaelhealy.space/academic/project/eportfolios/</guid>
       <description></description>
     </item>
     

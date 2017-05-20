@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Humanities on Michael Healy</title>
-    <link>https://michaelhealy.space/academic/tags/digital-humanities/</link>
+    <link>http://michaelhealy.space/academic/tags/digital-humanities/</link>
     <description>Recent content in Digital Humanities on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Open Site Initiative</title>
-      <link>https://michaelhealy.space/academic/post/opensite/</link>
+      <link>http://michaelhealy.space/academic/post/opensite/</link>
       <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
       
-      <guid>https://michaelhealy.space/academic/post/opensite/</guid>
+      <guid>http://michaelhealy.space/academic/post/opensite/</guid>
       <description>&lt;p&gt;After a presentation and conversation with &lt;a href=&#34;https://digitalscholars.wordpress.com/2017/04/24/alex-gil-followup/&#34; target=&#34;_blank&#34;&gt;Alex Gil&lt;/a&gt;, I&amp;rsquo;ve chosen, as a summer project, to re-do my personal website, for a few reasons:&lt;/p&gt;
 
 &lt;ol&gt;
