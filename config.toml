@@ -1,4 +1,4 @@
-baseurl = "http://michaelhealy.space/academic"
+baseurl = "http://michaelhealy.space/academic/"
 title = "Michael Healy"
 copyright = "&copy; 2017 Your Name"
 theme = "academic"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
   role = "Graduate Teaching Assistant in Rhetoric and Composition"
   organization = "Florida State University"
   organization_url = "http://english.fsu.edu"
-  avatar = "me.jpg"
+  avatar = "portrait.jpg"
   email = "mjh16m@my.fsu.edu"
   address = "Dodd Hall, Florida State University, Tallahassee FL, 32301, USA"
   office_hours = "Summer 2017: email for appointment"
@@ -160,7 +160,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 6
+  weight = 5
 
 [[menu.main]]
   name = "Projects and ePortfolios"
@@ -185,7 +185,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
+
+[[menu.main]]
+  name = "Personal Site"
+  url = "http://michaelhealy.space"
+  weight = 6
 
 [[menu.main]]
   name = "Contact"

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A publication title, such as title of a paper on Michael Healy</title>
-    <link>https://michaelhealy.space/academic/publication/</link>
+    <link>http://michaelhealy.space/academic/publication/</link>
     <description>Recent content in A publication title, such as title of a paper on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
