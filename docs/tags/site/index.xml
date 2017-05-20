@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on Michael Healy</title>
+    <link>https://michaelhealy.space/academic/tags/site/</link>
+    <description>Recent content in Site on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sat, 20 May 2017 14:20:00 -0400</lastBuildDate>
+    <atom:link href="/academic/tags/site/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Organizing and Thinking: Themes and Goals</title>
+      <link>https://michaelhealy.space/academic/post/organization/</link>
+      <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/academic/post/organization/</guid>
+      <description>&lt;p&gt;So I&amp;rsquo;ve been thinking about how to organize and work through all of this. Both in terms of templating, as well as in terms of theming and organization. I currently have the personal stuff offset in its own subfolder, which I would either like to figure out how to place into its own subdomain, or something. I will need to figure out how to do that. There are things that I like with this &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme, especially in terms of it &amp;ldquo;looking&amp;rdquo; like a CV. And I like the idea, ultimately, of having a CV type academic site, with resources based on the different projects. To have data available, slides, references, etc. Speaking of which, I need to do that for my &lt;a href=&#34;https://michaelhealy.space/academic/talk/cccc2017&#34;&gt;CCCC&amp;rsquo;s talk&lt;/a&gt; from this year. I also like that there is a lot to customize, but that it largely just works, and is relatively well documented.&lt;/p&gt;
+
+&lt;p&gt;I should follow up on a bug, I think, but I also need to do more to learn some additional CSS. Oh well, one summer project at a time.&lt;/p&gt;
+
+&lt;p&gt;I am planning on adding a &amp;ldquo;book review&amp;rdquo; section here, as a way of thinking through the different things that I&amp;rsquo;ve been reading for the summer DIS. I also see this sort of scholarship archive, and my reactions to it&amp;ndash;more casual and blog like than publishable book review&amp;ndash;as a way of reflecting on and synthesizing my reading, as well as a means for creating a publicish archive. I&amp;rsquo;ll need to see how extensible this theme is before committing to it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Site Initiative</title>
+      <link>https://michaelhealy.space/academic/post/opensite/</link>
+      <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/academic/post/opensite/</guid>
+      <description>&lt;p&gt;After a presentation and conversation with &lt;a href=&#34;https://digitalscholars.wordpress.com/2017/04/24/alex-gil-followup/&#34; target=&#34;_blank&#34;&gt;Alex Gil&lt;/a&gt;, I&amp;rsquo;ve chosen, as a summer project, to re-do my personal website, for a few reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To better know the technologies I use.&lt;/li&gt;
+&lt;li&gt;To better, and more openly, represent my work.&lt;/li&gt;
+&lt;li&gt;To have more control over my making. I would like to know where the things I&amp;rsquo;m doing are going.&lt;/li&gt;
+&lt;li&gt;To get off of a self-hosted Wordpress site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These is a big project for the summer, but luckily, I think it is working out.&lt;/p&gt;
+
+&lt;p&gt;So, I&amp;rsquo;ve made some of the first things that I need to do with the site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

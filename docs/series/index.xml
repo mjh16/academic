@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Michael Healy</title>
+    <link>https://michaelhealy.space/academic/series/</link>
+    <description>Recent content in Series on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Mon, 09 May 2016 06:23:04 +0000</lastBuildDate>
+    <atom:link href="/academic/series/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gamed Peer Review</title>
+      <link>https://michaelhealy.space/academic/series/gamed-peer-review/</link>
+      <pubDate>Mon, 09 May 2016 06:23:04 +0000</pubDate>
+      
+      <guid>https://michaelhealy.space/academic/series/gamed-peer-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

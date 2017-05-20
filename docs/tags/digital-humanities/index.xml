@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Humanities on Michael Healy</title>
+    <link>https://michaelhealy.space/academic/tags/digital-humanities/</link>
+    <description>Recent content in Digital Humanities on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sun, 14 May 2017 21:58:49 -0400</lastBuildDate>
+    <atom:link href="/academic/tags/digital-humanities/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Open Site Initiative</title>
+      <link>https://michaelhealy.space/academic/post/opensite/</link>
+      <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
+      
+      <guid>https://michaelhealy.space/academic/post/opensite/</guid>
+      <description>&lt;p&gt;After a presentation and conversation with &lt;a href=&#34;https://digitalscholars.wordpress.com/2017/04/24/alex-gil-followup/&#34; target=&#34;_blank&#34;&gt;Alex Gil&lt;/a&gt;, I&amp;rsquo;ve chosen, as a summer project, to re-do my personal website, for a few reasons:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;To better know the technologies I use.&lt;/li&gt;
+&lt;li&gt;To better, and more openly, represent my work.&lt;/li&gt;
+&lt;li&gt;To have more control over my making. I would like to know where the things I&amp;rsquo;m doing are going.&lt;/li&gt;
+&lt;li&gt;To get off of a self-hosted Wordpress site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These is a big project for the summer, but luckily, I think it is working out.&lt;/p&gt;
+
+&lt;p&gt;So, I&amp;rsquo;ve made some of the first things that I need to do with the site.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

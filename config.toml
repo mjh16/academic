@@ -1,9 +1,10 @@
-baseurl = "https://michaelhealy.space/academic"
+baseurl = "http://michaelhealy.space/academic"
 title = "Michael Healy"
 copyright = "&copy; 2017 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
+publishdir          = "docs"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
