@@ -1,5 +1,4 @@
 +++
-date = "2017-05-01T12:00:00"
 title = ""
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -18,7 +17,7 @@ external_link = ""
 math = false
 
 # Does the project detail page use source code highlighting?
-highlight = true
+highlight = false
 
 widget = "projects"
 

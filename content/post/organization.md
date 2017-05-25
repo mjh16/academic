@@ -16,4 +16,4 @@ So I've been thinking about how to organize and work through all of this. Both i
 
 I should follow up on a bug, I think, but I also need to do more to learn some additional CSS. Oh well, one summer project at a time.
 
-I am planning on adding a "book review" section here, as a way of thinking through the different things that I've been reading for the summer DIS. I also see this sort of scholarship archive, and my reactions to it--more casual and blog like than publishable book review--as a way of reflecting on and synthesizing my reading, as well as a means for creating a publicish archive. I'll need to see how extensible this theme is before committing to it.
+I am planning on adding a "book review" section here, as a way of thinking through the different things that I've been reading for the summer DIS. I also see this sort of scholarship archive, and my reactions to it--more casual and blog like than publishable book review--as a way of reflecting on and synthesizing my reading, as well as a means for creating a public-ish archive. I'll need to see how extensible this theme is before committing to it.
