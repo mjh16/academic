@@ -77,6 +77,15 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/project/wpa-dis/wpa-dis-ab/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/post/organization/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
     </url>
@@ -311,6 +320,16 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/tags/bibliography/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/categories/</loc>
       <priority>0</priority>
     </url>
@@ -330,8 +349,28 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/tags/curriculum/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/tags/digital-humanities/</loc>
       <lastmod>2017-05-14T21:58:49-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/dis/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -439,6 +478,16 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/tags/ta/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/tags/tag2/</loc>
       <lastmod>2016-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -451,6 +500,26 @@
     
       <loc>http://michaelhealy.space/academic/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/teacher-prep/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/wpa/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
     </url>
     

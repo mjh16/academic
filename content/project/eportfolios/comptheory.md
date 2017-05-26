@@ -24,7 +24,7 @@ This serves as a synthesis of the artifacts collected within this ePortfolio. Th
 
 ## [Triptych Plus Project](triptych)
 
-This project examines three different perspectives on composition: Homebrewing Community, a SpaceX hosted webcast for a rocket launch, and Malea Powell's 2012 CCCCs chairs address. The above link will take you directly to the reflective overlay, which then links to the individual panels of the triptych. This organization mirrors the theological art use of a triptych, with the overall theme opening up to reveal the interior workings, which is present in the [Triptych Plus Reflective Overlay](triptychreflection). 
+This project examines three different perspectives on composition: Homebrewing Community, a SpaceX hosted webcast for a rocket launch, and Malea Powell's 2012 CCCCs chairs address. The above link will take you directly to the reflective overlay, which then links to the individual panels of the triptych. This organization mirrors the theological art use of a triptych, with the overall theme opening up to reveal the interior workings, which is present in the [Triptych Plus Reflective Overlay](triptychreflection).
 
 ## [Perspective Project](perspectives)
 

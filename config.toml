@@ -163,7 +163,7 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Projects and ePortfolios"
+  name = "Projects"
   url = "#projects"
   weight = 3
   identifier = "projects"
@@ -188,14 +188,9 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Personal Site"
-  url = "http://michaelhealy.space"
-  weight = 6
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
