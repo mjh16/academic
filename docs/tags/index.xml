@@ -21,11 +21,32 @@
     </item>
     
     <item>
+      <title>Bibliography</title>
+      <link>http://michaelhealy.space/academic/tags/bibliography/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/tags/bibliography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Composition</title>
       <link>http://michaelhealy.space/academic/tags/composition/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
       <guid>http://michaelhealy.space/academic/tags/composition/</guid>
+<<<<<<< HEAD
+=======
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://michaelhealy.space/academic/tags/curriculum/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/tags/curriculum/</guid>
+>>>>>>> working
       <description></description>
     </item>
     
@@ -35,6 +56,18 @@
       <pubDate>Sun, 14 May 2017 21:58:49 -0400</pubDate>
       
       <guid>http://michaelhealy.space/academic/tags/digital-humanities/</guid>
+<<<<<<< HEAD
+=======
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dis</title>
+      <link>http://michaelhealy.space/academic/tags/dis/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/tags/dis/</guid>
+>>>>>>> working
       <description></description>
     </item>
     
@@ -89,6 +122,18 @@
       <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
       
       <guid>http://michaelhealy.space/academic/tags/site/</guid>
+<<<<<<< HEAD
+=======
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ta</title>
+      <link>http://michaelhealy.space/academic/tags/ta/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/tags/ta/</guid>
+>>>>>>> working
       <description></description>
     </item>
     
@@ -98,6 +143,18 @@
       <pubDate>Sun, 01 May 2016 12:00:00 +0000</pubDate>
       
       <guid>http://michaelhealy.space/academic/tags/tag2/</guid>
+<<<<<<< HEAD
+=======
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teacher Prep</title>
+      <link>http://michaelhealy.space/academic/tags/teacher-prep/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/tags/teacher-prep/</guid>
+>>>>>>> working
       <description></description>
     </item>
     

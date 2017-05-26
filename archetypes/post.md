@@ -1,7 +1,4 @@
 +++
-date = "2017-05-14T21:58:49-04:00"
-math = false
-highlight = true
 tags = ["blog"]
 title = ""
 draft = true

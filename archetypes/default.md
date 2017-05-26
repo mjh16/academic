@@ -1,14 +1,4 @@
 +++
-date = "2017-05-14"
+highlight = false
 math = false
-highlight = true
-tags = [""]
-title = ""
-draft = true
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-
 +++

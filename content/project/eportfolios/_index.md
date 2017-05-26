@@ -6,7 +6,7 @@ image_preview = ""
 external_link = ""
 draft = false
 tags = ["ePortflio","tag2"]
-widget = "ePortfolio"
+widget = "projects"
 
 [header]
   image = ""
