@@ -34,7 +34,7 @@ view = 1
   tag = ".ePortfolio"
 
 [[filter]]
-  name = "Bibliographies"
-  tag = ".bibliography"
+  name = "WPA Summer DIS"
+  tag = ".WPA-DIS"
 
 +++

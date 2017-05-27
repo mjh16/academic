@@ -5,10 +5,11 @@ highlight = false
 image_preview = ""
 math = false
 summary = ""
-tags = ["play","voice","research"]
+tags = ["play","voice","research","classroom-research"]
 title = "Play and Voice Classroom Study"
 widget = "projects"
 draft = true
+activitoes = "research"
 
 [header]
   caption = ""
