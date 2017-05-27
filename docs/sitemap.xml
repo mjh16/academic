@@ -320,6 +320,15 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/activities/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/tags/bibliography/</loc>
       <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
@@ -361,6 +370,16 @@
     
       <loc>http://michaelhealy.space/academic/tags/digital-humanities/</loc>
       <lastmod>2017-05-14T21:58:49-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/activities/directed-independent-study/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -519,6 +538,26 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/wpa/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/wpa-dis/</loc>
+      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/activities/writing-program-administration/</loc>
       <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
     </url>

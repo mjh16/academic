@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Activities on Michael Healy</title>
+    <link>http://michaelhealy.space/academic/activities/</link>
+    <description>Recent content in Activities on Michael Healy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <atom:link href="/academic/activities/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Directed Independent Study</title>
+      <link>http://michaelhealy.space/academic/activities/directed-independent-study/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/activities/directed-independent-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing Program Administration</title>
+      <link>http://michaelhealy.space/academic/activities/writing-program-administration/</link>
+      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/activities/writing-program-administration/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

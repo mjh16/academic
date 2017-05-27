@@ -198,6 +198,7 @@ defaultContentLanguageInSubdir = false
   category = "categories"
   publication_type = "publication_types"
   series = "series"
+  activity = "activities" #Scholarly Activities not covered in talks presentations, publications, or teaching. Think of this as a way to chunk classes, research, digital studio work, etc together. Could just be a way for me to classify, could also be useful as a means of presenting and linking things
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

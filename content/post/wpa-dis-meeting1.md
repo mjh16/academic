@@ -3,8 +3,9 @@ date = "2017-05-25T00:39:29-04:00"
 draft = true
 highlight = false
 math = false
-tags = ["blog","notes","WPA","DIS","Teacher-Prep","TA"]
+tags = ["notes","WPA-DIS","meeting-notes"]
 title = "First Meeting Notes and Observations"
+activities = ["writing-program-administration","directed-independent-study"]
 
 [header]
   caption = ""

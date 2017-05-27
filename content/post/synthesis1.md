@@ -2,9 +2,10 @@
 date = "2017-05-25T00:31:08-04:00"
 highlight = false
 math = false
-tags = ["wpa","DIS","synthesis","reflection","SRR","Teacher-prep","TA","Graduate Students","Faculty","programs","curriculum"]
+tags = ["WPA-DIS","SRR"]
 title = "Thinking Across the First Reading Selection: WPA, Teacher-Prep, TA's, Politics, and Program Design"
 draft = true
+activities = ["writing-program-administration","directed-independent-study"]
 
 [header]
   caption = ""
