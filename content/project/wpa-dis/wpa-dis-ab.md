@@ -10,7 +10,13 @@ widget = "projects"
 activities = ["directed-independent-study","writing-program-administration"]
 
 +++
+<<<<<<< HEAD
 ### Coxwell-Teague, Deborah, and Ronald F. Lunsford eds. *First-Year Composition: From Theory to Practice*. Parlor Press, Anderson, SC, 2014.
+=======
+
+Coxwell-Teague, Deborah, and Ronald F. Lunsford eds. *First-Year Composition: From Theory to Practice*. Parlor Press, Anderson, SC, 2014.
+>>>>>>> ddbc2d93d06a98abb6f195478f08d000b4c4ce9f
+
 
   This edited collection provides theoretical background for a hypothetical first-year composition class. Coxwell-Teague and Lunsford ask the contributors[^1] "what they would do if they taught semester-long first-year composition course at their schools and if they knew such courses were to be the only college-level composition course the students would take" (preface viii)? Each chapter is separated into two halves: theoretical frame and a syllabus. In the first section of each chapter, the contributors offer the rationales for their design of the course, each highly representative of their own interests and their contexts. The second half of the chapter are supplementary materials, each with a syllabus, and many with assignment sheets. Overall, the collection offers a snapshot of what many scholars in Rhetoric and Composition see as the important features of this class. There are many commonalities among them, where FYC does not focus on grammar, persuasion, or on the "improvement of writing". Overall, the collection offers an interesting look at what the core teaching practices and focuses of the discipline are, and where they fit within First-Year composition.
 ***
@@ -23,6 +29,7 @@ activities = ["directed-independent-study","writing-program-administration"]
   This edited collection examines issues of curriculum design, teacher preperation, graduate teaching assistants, labor, pedagogy, and practice. It has an extensive list of contributors [^2], and the chapters were organized aroudn the themes histories, theories, programs, and practices. The provided chapters offer a snapshot into program design, preperation, curriculum, education, support, and local contexts for a variety of teaching assistants, adjuncts, faculty, and professors teaching college writing. The chapters tended to reflect the local nature of the program, outside of some that took a winder stance such as Yancey's heurstic for curriculum design. Overall, the chapters tended to get repetitive, with many offering similar types of programs with various levels teacher preperation and support. There were things to be learned in terms of the framing, content, and ongoing programs that teachers of composition need, and how to structure programs and curriculums. This volume, as compared to the others, was light on theory but had lots of on-the-ground types of insights and explorations
 ***
 ### Strickland, Donna, and Jeanne Gunner. *The Writing Program Interrupted: Making Space for Critical Discourse*. Boyton/Cook, Portsmouth, 2009.
+
 
   This edited collection revolves around issues of contributors [^3]
 
