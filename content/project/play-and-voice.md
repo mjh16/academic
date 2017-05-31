@@ -9,7 +9,7 @@ tags = ["play","voice","research","classroom-research"]
 title = "Play and Voice Classroom Study"
 widget = "projects"
 draft = true
-activitoes = "research"
+activities = "research"
 
 [header]
   caption = ""
