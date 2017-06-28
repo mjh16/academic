@@ -10,9 +10,36 @@
     <atom:link href="/academic/activities/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>1660 1800</title>
+      <link>http://michaelhealy.space/academic/activities/1660-1800/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/activities/1660-1800/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>18th Century Novel</title>
+      <link>http://michaelhealy.space/academic/activities/18th-century-novel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/activities/18th-century-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Class</title>
+      <link>http://michaelhealy.space/academic/activities/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://michaelhealy.space/academic/activities/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Directed Independent Study</title>
       <link>http://michaelhealy.space/academic/activities/directed-independent-study/</link>
-      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
       
       <guid>http://michaelhealy.space/academic/activities/directed-independent-study/</guid>
       <description></description>
@@ -21,7 +48,7 @@
     <item>
       <title>Writing Program Administration</title>
       <link>http://michaelhealy.space/academic/activities/writing-program-administration/</link>
-      <pubDate>Thu, 25 May 2017 16:26:24 -0400</pubDate>
+      <pubDate>Mon, 12 Jun 2017 10:25:25 -0400</pubDate>
       
       <guid>http://michaelhealy.space/academic/activities/writing-program-administration/</guid>
       <description></description>

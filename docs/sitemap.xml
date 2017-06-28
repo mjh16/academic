@@ -77,6 +77,15 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/project/wpa-dis/meeting-one/</loc>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/project/wpa-dis/wpa-dis-ab/</loc>
       <lastmod>2017-05-25T16:26:24-04:00</lastmod>
     </url>
@@ -320,7 +329,43 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/activities/1660-1800/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/18th-century-novel/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/activities/18th-century-novel/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/activities/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/annotated-bib/</loc>
       <priority>0</priority>
     </url>
     
@@ -348,6 +393,15 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/activities/class/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/tags/composition/</loc>
       <lastmod>2017-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -359,7 +413,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/curriculum/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -379,7 +433,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/activities/directed-independent-study/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -389,7 +443,17 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/dis/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/discussion/</loc>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -420,6 +484,23 @@
     
       <loc>http://michaelhealy.space/academic/series/gamed-peer-review/</loc>
       <lastmod>2016-05-09T06:23:04+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/project/18th-century-british-novels/brown-annotatedbib/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://michaelhealy.space/academic/tags/literature/</loc>
       <priority>0</priority>
     </url>
     
@@ -468,6 +549,16 @@
     
     <url>
     
+      <loc>http://michaelhealy.space/academic/project/</loc>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://michaelhealy.space/academic/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -498,7 +589,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/ta/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -528,7 +619,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/teacher-prep/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -538,7 +629,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/wpa/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -548,7 +639,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/tags/wpa-dis/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -558,7 +649,7 @@
     <url>
     
       <loc>http://michaelhealy.space/academic/activities/writing-program-administration/</loc>
-      <lastmod>2017-05-25T16:26:24-04:00</lastmod>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
     
