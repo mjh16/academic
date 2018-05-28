@@ -39,7 +39,7 @@ color_theme = "default"
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "classic"
 
   # Your details.
   name = "Michael Healy"
@@ -47,11 +47,11 @@ color_theme = "default"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organization = [ { name = "Florida State University", url= "http://english.fsu.edu" } ]
+  organizations = [ {name = "Florida State University", url= "https://english.fsu.edu"} ]
   gravatar = false
   avatar = "portrait.jpg"
   email = "mhealy@fsu.edu"
-  address = "Williams 329, Florida State University, Tallahassee FL, 32301, USA"
+  address = "Williams 329, Florida State University, Tallahassee FL, 32306, USA"
   office_hours = "Summer 2018: email for appointment"
   phone = ""
 
