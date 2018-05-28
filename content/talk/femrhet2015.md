@@ -1,5 +1,5 @@
 +++
-date = "2015-10-30T00:00:00"
+date = 2015-10-30T00:00:00
 title = "Celebrating Grandma: (Re)Making (or Appropriating?) Agency in the Archive"
 abstract = ""
 abstract_short = ""

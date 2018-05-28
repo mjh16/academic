@@ -1,4 +1,0 @@
-+++
-highlight = false
-math = false
-+++

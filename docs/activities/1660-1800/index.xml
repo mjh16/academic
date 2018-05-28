@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1660 1800 on Michael Healy</title>
-    <link>http://michaelhealy.space/academic/activities/1660-1800/</link>
-    <description>Recent content in 1660 1800 on Michael Healy</description>
+    <title>1660-1800 on Michael Healy</title>
+    <link>https://michaelhealy.space/activities/1660-1800/</link>
+    <description>Recent content in 1660-1800 on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
-    <atom:link href="/academic/activities/1660-1800/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2018 Michael Healy</copyright>
+    
+	<atom:link href="https://michaelhealy.space/activities/1660-1800/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Laura Brown - &#34;Oroonoko and the Romance of Empire&#34;</title>
-      <link>http://michaelhealy.space/academic/project/18th-century-british-novels/brown-annotatedbib/</link>
+      <link>https://michaelhealy.space/project/18th-century-british-novels/brown-annotatedbib/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://michaelhealy.space/academic/project/18th-century-british-novels/brown-annotatedbib/</guid>
-      <description>&lt;p&gt;Brown, Laura. “The Romance of Empire: &lt;em&gt;Oroonoko&lt;/em&gt; and the Trade in Slaves.” &lt;em&gt;End of Empire: Women and Ideology in Early Eighteenth-Century English Literature&lt;/em&gt;. Ithaca, NY: Cornell UP, 1993. 23-63.&lt;/p&gt;
-
-&lt;p&gt;In this chapter, Brown explores the tensions presented in &lt;em&gt;Oroonoko&lt;/em&gt;, and their relationship to ongoing changes in class, ideology, race, and gender in the British colonies of the late 17th century. She examines the connections of race and gender, feminism and abolition, the construction of the other, and how they intersect within this “particular stage in the history of British capitalism associated broadly with commodity exchange and colonialist exploitation” (34). She also discusses how these are troubled by the uneasy relationship between romanticism and realism that is presented in the novel, drawing connections to contemporary political and colonial issues, displays the tensions involved in the British West Indies politically, religiously, and ideologically. In her examination of &lt;em&gt;Oroonoko&lt;/em&gt;, Brown first demonstrates how issues of gender and race are connected within the text. She then works outward to analyze oppression, exploitation, capitalism, and ideology as represented and underlying the novella. Brown’s first inquiry is into the character of Oroonoko, examining his portrayal as educated, noble, and aristocratic, in a “white” mold. She then traces the narrative arc, and how Oroonoko’s romantic actions require an audience of and involvement by female actors as witnesses and reporters of his heroic drama. Brown then works through a number of examples, analyzing the creation of race and gender, and the intersections with political, religious, ideological, and economic systems. She makes an argument for the construction of a number of “others,” black, native, and female, which serve to define and be exploited by the dominant systems.&lt;/p&gt;
-
-&lt;p&gt;This analysis is grounded in feminist and economic criticisms, and weaves in historical contexts, and would be especially valuable for a project exploring intersections of race, gender, and economics.&lt;/p&gt;
-</description>
+      <guid>https://michaelhealy.space/project/18th-century-british-novels/brown-annotatedbib/</guid>
+      <description>Brown, Laura. “The Romance of Empire: Oroonoko and the Trade in Slaves.” End of Empire: Women and Ideology in Early Eighteenth-Century English Literature. Ithaca, NY: Cornell UP, 1993. 23-63.
+In this chapter, Brown explores the tensions presented in Oroonoko, and their relationship to ongoing changes in class, ideology, race, and gender in the British colonies of the late 17th century. She examines the connections of race and gender, feminism and abolition, the construction of the other, and how they intersect within this “particular stage in the history of British capitalism associated broadly with commodity exchange and colonialist exploitation” (34).</description>
     </item>
     
   </channel>

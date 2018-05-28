@@ -3,8 +3,8 @@
 # Note: this widget will only display if `content/talk/` contains publications
 # with `selected = true` in their `+++` preamble.
 
-date = "2017-05-12T00:00:00"
-draft = false
+date = 2017-05-12T00:00:00
+active = false
 
 title = "Upcoming Presentations"
 subtitle = "Accepted and Upcoming Talks and Presentations"
