@@ -2,26 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Planing on Michael Healy</title>
-    <link>http://michaelhealy.space/academic/tags/planing/</link>
+    <link>https://michaelhealy.space/tags/planing/</link>
     <description>Recent content in Planing on Michael Healy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <copyright>&amp;copy; 2018 Michael Healy</copyright>
     <lastBuildDate>Sat, 20 May 2017 14:20:00 -0400</lastBuildDate>
-    <atom:link href="/academic/tags/planing/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://michaelhealy.space/tags/planing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Organizing and Thinking: Themes and Goals</title>
-      <link>http://michaelhealy.space/academic/post/organization/</link>
+      <link>https://michaelhealy.space/post/organization/</link>
       <pubDate>Sat, 20 May 2017 14:20:00 -0400</pubDate>
       
-      <guid>http://michaelhealy.space/academic/post/organization/</guid>
-      <description>&lt;p&gt;So I&amp;rsquo;ve been thinking about how to organize and work through all of this. Both in terms of templating, as well as in terms of theming and organization. I currently have the personal stuff offset in its own subfolder, which I would either like to figure out how to place into its own subdomain, or something. I will need to figure out how to do that. There are things that I like with this &lt;a href=&#34;https://themes.gohugo.io/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme, especially in terms of it &amp;ldquo;looking&amp;rdquo; like a CV. And I like the idea, ultimately, of having a CV type academic site, with resources based on the different projects. To have data available, slides, references, etc. Speaking of which, I need to do that for my &lt;a href=&#34;http://michaelhealy.space/academic/talk/cccc2017&#34;&gt;CCCC&amp;rsquo;s talk&lt;/a&gt; from this year. I also like that there is a lot to customize, but that it largely just works, and is relatively well documented.&lt;/p&gt;
-
-&lt;p&gt;I should follow up on a bug, I think, but I also need to do more to learn some additional CSS. Oh well, one summer project at a time.&lt;/p&gt;
-
-&lt;p&gt;I am planning on adding a &amp;ldquo;book review&amp;rdquo; section here, as a way of thinking through the different things that I&amp;rsquo;ve been reading for the summer DIS. I also see this sort of scholarship archive, and my reactions to it&amp;ndash;more casual and blog like than publishable book review&amp;ndash;as a way of reflecting on and synthesizing my reading, as well as a means for creating a public-ish archive. I&amp;rsquo;ll need to see how extensible this theme is before committing to it.&lt;/p&gt;
-</description>
+      <guid>https://michaelhealy.space/post/organization/</guid>
+      <description>So I&amp;rsquo;ve been thinking about how to organize and work through all of this. Both in terms of templating, as well as in terms of theming and organization. I currently have the personal stuff offset in its own subfolder, which I would either like to figure out how to place into its own subdomain, or something. I will need to figure out how to do that. There are things that I like with this Academic theme, especially in terms of it &amp;ldquo;looking&amp;rdquo; like a CV.</description>
     </item>
     
   </channel>

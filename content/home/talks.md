@@ -1,20 +1,21 @@
 +++
 # Recent and Upcoming Talks widget.
-
-date = "2016-04-20T00:00:00"
-draft = false
-
-title = "Presentations"
-subtitle = "Conferences, Invited Speaker"
 widget = "talks"
+active = true
+date = 2016-04-20T00:00:00
+
+title = "Recent and Upcoming Presentations"
+subtitle = "Conferences and Invited Speaker"
 
 # Order that this section will appear in.
-weight = 20
+weight = 30
 
 # Number of talks to list.
 count = 10
 
-# Show talk details (such as abstract)? (true/false)
-detailed_list = false
+# List format.
+#   0 = Simple
+#   1 = Detailed
+list_format = 0
 
 +++

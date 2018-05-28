@@ -1,5 +1,5 @@
 +++
-date = "2017-11-03T00:00:00"
+date = 2017-11-03T00:00:00
 title = "At Play with Composition: Explorations of Voice"
 abstract = ""
 abstract_short = "Study on the efficacy of play as an organizational and pedagogical theory in ENC 2135."

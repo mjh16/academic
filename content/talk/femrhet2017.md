@@ -1,5 +1,5 @@
 +++
-date = "2017-10-04T00:00:00"
+date = 2017-10-04T00:00:00
 title = "Circulation, Narrative, and Human Rights: New Materialism meets Spectacular Rhetoric"
 abstract = ""
 abstract_short = ""

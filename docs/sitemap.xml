@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/reflection/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/reflection/</loc>
       <lastmod>2017-04-16T03:16:48+00:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/triptych/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/triptych/</loc>
       <lastmod>2017-04-15T17:20:15+00:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/perspectives/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/perspectives/</loc>
       <lastmod>2017-03-20T20:55:30+00:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/selection1/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/selection1/</loc>
       <lastmod>2017-01-30T21:47:18+00:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/selection2/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/selection2/</loc>
       <lastmod>2017-02-27T21:31:20+00:00</lastmod>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/selection3/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/selection3/</loc>
       <lastmod>2017-04-03T22:02:01+00:00</lastmod>
     </url>
     
@@ -59,8 +59,8 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/talk/samla2017/</loc>
-      <lastmod>2017-11-03T00:00:00+00:00</lastmod>
+      <loc>https://michaelhealy.space/talk/samla2017/</loc>
+      <lastmod>2017-11-03T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -68,8 +68,8 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/talk/femrhet2017/</loc>
-      <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+      <loc>https://michaelhealy.space/talk/femrhet2017/</loc>
+      <lastmod>2017-10-04T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -77,7 +77,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/wpa-dis/meeting-one/</loc>
+      <loc>https://michaelhealy.space/project/wpa-dis/meeting-one/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/wpa-dis/wpa-dis-ab/</loc>
+      <loc>https://michaelhealy.space/project/wpa-dis/wpa-dis-ab/</loc>
       <lastmod>2017-05-25T16:26:24-04:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/post/organization/</loc>
+      <loc>https://michaelhealy.space/post/organization/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
     </url>
     
@@ -104,7 +104,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/post/opensite/</loc>
+      <loc>https://michaelhealy.space/post/opensite/</loc>
       <lastmod>2017-05-14T21:58:49-04:00</lastmod>
     </url>
     
@@ -113,7 +113,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/talk/cccc2017/</loc>
+      <loc>https://michaelhealy.space/talk/cccc2017/</loc>
       <lastmod>2017-05-14T21:47:41-04:00</lastmod>
     </url>
     
@@ -122,7 +122,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/</loc>
       <lastmod>2017-05-01T12:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +131,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/abstract/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/abstract/</loc>
       <lastmod>2017-04-16T22:20:18+00:00</lastmod>
     </url>
     
@@ -140,7 +140,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/comptheory/triptychreflection/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/comptheory/triptychreflection/</loc>
       <lastmod>2017-04-15T17:21:47+00:00</lastmod>
     </url>
     
@@ -149,7 +149,16 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/publication/</loc>
+      <loc>https://michaelhealy.space/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaelhealy.space/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +167,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/academic/</loc>
+      <loc>https://michaelhealy.space/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,7 +176,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/post/</loc>
+      <loc>https://michaelhealy.space/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,16 +185,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-09-conclusions/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-09-conclusions/</loc>
       <lastmod>2016-05-09T06:23:04+00:00</lastmod>
     </url>
     
@@ -194,7 +194,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-09-integration/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-09-integration/</loc>
       <lastmod>2016-05-09T06:21:50+00:00</lastmod>
     </url>
     
@@ -203,7 +203,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-09-serious-revisions/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-09-serious-revisions/</loc>
       <lastmod>2016-05-09T06:08:22+00:00</lastmod>
     </url>
     
@@ -212,7 +212,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-09-the-gamed-process-narrative/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-09-the-gamed-process-narrative/</loc>
       <lastmod>2016-05-09T05:29:02+00:00</lastmod>
     </url>
     
@@ -221,7 +221,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-09-run/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-09-run/</loc>
       <lastmod>2016-05-09T05:19:24+00:00</lastmod>
     </url>
     
@@ -230,7 +230,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-revise-literature-review/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-revise-literature-review/</loc>
       <lastmod>2016-05-05T21:47:58+00:00</lastmod>
     </url>
     
@@ -239,7 +239,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-reading-and-research/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-reading-and-research/</loc>
       <lastmod>2016-05-05T21:42:09+00:00</lastmod>
     </url>
     
@@ -248,7 +248,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-more-revision-narrative/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-more-revision-narrative/</loc>
       <lastmod>2016-05-05T21:39:23+00:00</lastmod>
     </url>
     
@@ -257,7 +257,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-cast-of-characters/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-cast-of-characters/</loc>
       <lastmod>2016-05-05T21:15:00+00:00</lastmod>
     </url>
     
@@ -266,7 +266,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-entrance/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-entrance/</loc>
       <lastmod>2016-05-05T21:15:00+00:00</lastmod>
     </url>
     
@@ -275,7 +275,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-works-cited/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-works-cited/</loc>
       <lastmod>2016-05-05T20:30:30+00:00</lastmod>
     </url>
     
@@ -284,7 +284,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-literature-review/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-literature-review/</loc>
       <lastmod>2016-05-05T19:33:29+00:00</lastmod>
     </url>
     
@@ -293,7 +293,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-questions-and-background/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-questions-and-background/</loc>
       <lastmod>2016-05-05T15:57:18+00:00</lastmod>
     </url>
     
@@ -302,7 +302,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/gamed_peer_review/2016-05-05-revision-and-memory-definitions/</loc>
+      <loc>https://michaelhealy.space/project/gamed_peer_review/2016-05-05-revision-and-memory-definitions/</loc>
       <lastmod>2016-05-05T15:25:17+00:00</lastmod>
     </url>
     
@@ -311,7 +311,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/eportfolios/</loc>
+      <loc>https://michaelhealy.space/project/eportfolios/</loc>
       <lastmod>2016-05-01T12:00:00+00:00</lastmod>
     </url>
     
@@ -320,8 +320,8 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/talk/femrhet2015/</loc>
-      <lastmod>2015-10-30T00:00:00+00:00</lastmod>
+      <loc>https://michaelhealy.space/talk/femrhet2015/</loc>
+      <lastmod>2015-10-30T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -329,7 +329,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/1660-1800/</loc>
+      <loc>https://michaelhealy.space/activities/1660-1800/</loc>
       <priority>0</priority>
     </url>
     
@@ -338,7 +338,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/18th-century-novel/</loc>
+      <loc>https://michaelhealy.space/activities/18th-century-novel/</loc>
       <priority>0</priority>
     </url>
     
@@ -347,7 +347,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/18th-century-novel/</loc>
+      <loc>https://michaelhealy.space/tags/18th-century-novel/</loc>
       <priority>0</priority>
     </url>
     
@@ -356,7 +356,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/</loc>
+      <loc>https://michaelhealy.space/activities/</loc>
       <priority>0</priority>
     </url>
     
@@ -365,7 +365,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/annotated-bib/</loc>
+      <loc>https://michaelhealy.space/tags/annotated-bib/</loc>
       <priority>0</priority>
     </url>
     
@@ -374,7 +374,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/bibliography/</loc>
+      <loc>https://michaelhealy.space/tags/bibliography/</loc>
       <lastmod>2017-05-25T16:26:24-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -384,7 +384,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/categories/</loc>
+      <loc>https://michaelhealy.space/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -393,7 +393,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/class/</loc>
+      <loc>https://michaelhealy.space/activities/class/</loc>
       <priority>0</priority>
     </url>
     
@@ -402,7 +402,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/composition/</loc>
+      <loc>https://michaelhealy.space/tags/composition/</loc>
       <lastmod>2017-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -412,7 +412,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/curriculum/</loc>
+      <loc>https://michaelhealy.space/tags/curriculum/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -422,7 +422,17 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/digital-humanities/</loc>
+      <loc>https://michaelhealy.space/tags/dis/</loc>
+      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://michaelhealy.space/tags/digital-humanities/</loc>
       <lastmod>2017-05-14T21:58:49-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -432,7 +442,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/directed-independent-study/</loc>
+      <loc>https://michaelhealy.space/activities/directed-independent-study/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -442,7 +452,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/dis/</loc>
+      <loc>https://michaelhealy.space/tags/discussion/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -452,17 +462,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/discussion/</loc>
-      <lastmod>2017-06-12T10:25:25-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://michaelhealy.space/academic/tags/eportflio/</loc>
+      <loc>https://michaelhealy.space/tags/eportflio/</loc>
       <lastmod>2016-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -472,7 +472,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/eportfolio/</loc>
+      <loc>https://michaelhealy.space/tags/eportfolio/</loc>
       <lastmod>2017-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -482,7 +482,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/series/gamed-peer-review/</loc>
+      <loc>https://michaelhealy.space/series/gamed-peer-review/</loc>
       <lastmod>2016-05-09T06:23:04+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -492,7 +492,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/18th-century-british-novels/brown-annotatedbib/</loc>
+      <loc>https://michaelhealy.space/project/18th-century-british-novels/brown-annotatedbib/</loc>
     </url>
     
   
@@ -500,7 +500,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/literature/</loc>
+      <loc>https://michaelhealy.space/tags/literature/</loc>
       <priority>0</priority>
     </url>
     
@@ -509,7 +509,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/</loc>
+      <loc>https://michaelhealy.space/</loc>
       <lastmod>2017-05-12T08:35:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -519,7 +519,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/minimal-computing/</loc>
+      <loc>https://michaelhealy.space/tags/minimal-computing/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -529,7 +529,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/organization/</loc>
+      <loc>https://michaelhealy.space/tags/organization/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -539,7 +539,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/planing/</loc>
+      <loc>https://michaelhealy.space/tags/planing/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -549,7 +549,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/project/</loc>
+      <loc>https://michaelhealy.space/project/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -559,7 +559,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/publication_types/</loc>
+      <loc>https://michaelhealy.space/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -568,7 +568,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/series/</loc>
+      <loc>https://michaelhealy.space/series/</loc>
       <lastmod>2016-05-09T06:23:04+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -578,7 +578,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/site/</loc>
+      <loc>https://michaelhealy.space/tags/site/</loc>
       <lastmod>2017-05-20T14:20:00-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -588,7 +588,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/ta/</loc>
+      <loc>https://michaelhealy.space/tags/ta/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -598,7 +598,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/tag2/</loc>
+      <loc>https://michaelhealy.space/tags/tag2/</loc>
       <lastmod>2016-05-01T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -608,7 +608,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/</loc>
+      <loc>https://michaelhealy.space/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -618,7 +618,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/teacher-prep/</loc>
+      <loc>https://michaelhealy.space/tags/teacher-prep/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -628,7 +628,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/wpa/</loc>
+      <loc>https://michaelhealy.space/tags/wpa/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -638,7 +638,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/tags/wpa-dis/</loc>
+      <loc>https://michaelhealy.space/tags/wpa-dis/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>
@@ -648,7 +648,7 @@
     
     <url>
     
-      <loc>http://michaelhealy.space/academic/activities/writing-program-administration/</loc>
+      <loc>https://michaelhealy.space/activities/writing-program-administration/</loc>
       <lastmod>2017-06-12T10:25:25-04:00</lastmod>
       <priority>0</priority>
     </url>

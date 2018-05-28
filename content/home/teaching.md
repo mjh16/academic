@@ -2,21 +2,22 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2017-05-12T21:20:00"
-draft = false
+date = 2017-05-12T21:20:00
+active = true
 
 title = "Teaching"
 subtitle = "Classes that I've taught"
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 70
+weight = 40
 
 +++
 ## Florida State University
 
-- ENC 2135: Genre, Research, and Context; Fall 2016, Spring 2017, Fall 2017
-- ENC 1101: Freshman Composition and Rhetoric; Summer 2017
+- ENC 2135: Genre, Research, and Context; Fall 2016, Spring 2017, Fall 2017, Spring 2018
+- ENC 1101: Freshman Composition and Rhetoric; Summer 2017, Summer 2018
+- ENC 3021: Rhetoric; Spring 2018
 
 ## University of Nebraska at Omaha
 
